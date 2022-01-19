@@ -1,0 +1,23 @@
+{
+  "name": "testing-parctice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bondok6/Testing-parctice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bondok6/Testing-parctice/issues"
+  },
+  "homepage": "https://github.com/Bondok6/Testing-parctice#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "jest": "^27.4.7"
+  }
+}
