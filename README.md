@@ -2,7 +2,7 @@
 
 # Testing-practice
 
-> One paragraph statement about the project.
+> I will write a few practical tests for JavaScript functions using the `Jest` library..
 
 ## Built With
 
